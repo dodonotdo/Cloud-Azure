@@ -1,5 +1,5 @@
-### Resource-group using cloud shell:-
--------------------------------------
+**Resource-group using cloud shell:-**
+------------------------------------
 
 1. **Create** the resouce group - `az group create -l (region_name) -n (resource-group-name)` 
 
