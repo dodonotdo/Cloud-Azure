@@ -1,6 +1,6 @@
 # Connect to a storage account using an Azure Private Endpoint and connecting app registration
 
-## What is Azure Private Endpoint?
+### What is Azure Private Endpoint?
 - You can use private endpoints for your Azure Storage accounts to allow clients on a virtual network (VNet) to **securely access data over a Private Link**.
 - -The private endpoint uses a separate IP address from the VNet address space for each storage account service.
 
