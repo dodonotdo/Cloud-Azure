@@ -35,8 +35,6 @@ The following steps are followed,
 3. Whichever one you want, you select it.
 
 ![image](https://user-images.githubusercontent.com/91359308/173292079-b3481618-d748-43c8-9fa5-bf8deb51144e.png)
-
-[image](https://user-images.githubusercontent.com/91359308/173290354-b08d7517-7f11-42c9-a30a-672653e18d7b.png)
  
 4. go to members and select the app registration id 
 
