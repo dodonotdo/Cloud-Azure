@@ -18,3 +18,4 @@
 
 ## Output
 
+![image](https://user-images.githubusercontent.com/91359308/173336873-b74c91ad-debc-48c4-83ea-c0d7c16ce762.png)
