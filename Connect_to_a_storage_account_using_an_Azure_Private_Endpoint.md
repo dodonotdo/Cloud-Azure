@@ -6,11 +6,11 @@
 
 The following steps are followed,
 
-### 1. Create a virtual network
+### 1. Create a `virtual network`
 
-### 2. Create a virtual machine
+### 2. Create a `virtual machine`
 
-### 3.Create a storage account
+### 3.Create a `storage account`
 
 1. After creating a storage account - go to this path
 
@@ -19,7 +19,7 @@ The following steps are followed,
 2. After creating a private endpoint, check the storage account. The private end point is added or not in the storage account?
 3. if it is added, status is successful.
 
-### 4.Create a App Registration
+### 4.Create a `App Registration`
 
 1. Create a app registration account
 2. after creating the app registration go to this path for creating a client secret ID ->
@@ -27,7 +27,7 @@ The following steps are followed,
 
 ![image](https://user-images.githubusercontent.com/91359308/173289485-8e172161-e9d3-44d3-9aa8-65942e27abe7.png)
 
-**How to add the role assignment in resource group using App ID**
+**How to add the `role assignment` in `resource group` using App ID**
 
 1. go to specified resource group 
 2. click on Access Control (IAM) - click on role assignment - click on add - click on add role assignment - then below steps are also followed
@@ -44,6 +44,6 @@ The following steps are followed,
 5. then, go to reveiw and create . after creating the  role assignment , the role will be added inside the resource group.
 
 ### NOTE:
-Resources ( storage account, VM, and etc....) also followed the same procedure for role assignment.
+`Resources` ( storage account, VM, and etc....) also followed the same procedure for `role assignment`.
 
 To learn much details, visit this page - https://docs.microsoft.com/en-us/azure/private-link/tutorial-private-endpoint-storage-portal
