@@ -19,3 +19,8 @@
 ## Output
 
 ![image](https://user-images.githubusercontent.com/91359308/173336873-b74c91ad-debc-48c4-83ea-c0d7c16ce762.png)
+
+
+# How to add a manage identity in virtual machine
+![image](https://user-images.githubusercontent.com/91359308/173338874-22cc6b29-55c9-4477-9840-c6b85d865a6d.png)
+
