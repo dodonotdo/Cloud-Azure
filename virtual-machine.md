@@ -4,6 +4,7 @@
 - An Azure virtual machine is an on-demand, scalable computer resource that is available in Azure. 
 - Virtual machines are generally used to host applications when the customer requires more control over the computing environment than what is offered by other compute resources.
 
+**Basic Flows**
 ![image](https://user-images.githubusercontent.com/91359308/173503793-e5ad773b-455e-4211-806a-8237fb5bc683.png)
 
 
