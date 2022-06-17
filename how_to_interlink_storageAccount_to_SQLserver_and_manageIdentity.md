@@ -11,8 +11,10 @@
  - click on enable azure SQL auditing 
  - Enter the storage account details  
  ```
-  - select authentication type (either one select - manage identity or storage access key)
+  - select authentication type (either one select - **manage identity** or **storage access key**)
+  
  if you select, storage access key - `The storage account and sql server connected successfully.`
+ 
  if you select, manage identity - 
 
  ```bash  
