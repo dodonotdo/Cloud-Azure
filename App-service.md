@@ -1,8 +1,33 @@
 ## Create the app service resource:-
 ### What is app service?
-- Azure App Service is an HTTP-based service for hosting web applications, REST APIs, and mobile back ends. 
-- You can develop in your favorite language, be it .NET, .NET Core, Java, Ruby, Node.js, PHP, or Python. 
-- Applications run and scale with ease on both Windows and Linux-based environments.
+- Azure app service fully managed by web hosting for websites.
+- publish your code and run it just runs.
+- No access to the underlying servers
+- Secured and compliant.
+- Integrate with many source controls and devops engines:
+```bash
+Github
+Azure Devops
+Docker Hub and more
+```
+- App Service Supported platforms be like
+```bash
+.NET, .NET Core, Java, Ruby, Node.js, PHP, or Python. 
+```
+- App Types:
+```bash
+1. Web Apps
+2. Web API
+3. Web Jobs(batch processes)
+```
+- Extremely easy to deploy:
+```bash
+1. Develop your code
+2. Create web app (can be done from IDE)
+3. Publish your code
+4. check your browser using the url.
+```
+- Applications can run and scale with ease on both Windows and Linux-based environments.
 
 ---
 **`Basic:`**
