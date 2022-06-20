@@ -14,3 +14,4 @@
 - Allows deployment containers and managing them using kubenetes on azure.
 - Paying only on the instances (=VMs) used.
 ```
+![image](https://user-images.githubusercontent.com/91359308/174523235-eb44fbf9-fa8b-43fb-b6fd-782552f7f34a.png)
