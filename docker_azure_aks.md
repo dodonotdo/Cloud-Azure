@@ -1,7 +1,7 @@
-`How to create docker image and container,
-How to move on the docker cotainer in azure portal, 
-How to create container registry using vs code,
-How to create kubernetes sevice using container registry in azure`
+`How to create docker image and container,`
+`How to move on the docker cotainer in azure portal,` 
+`How to create container registry using vs code,`
+`How to create kubernetes sevice using container registry in azure`
 
 ### How to build the docker images using VScode
 ![image](https://user-images.githubusercontent.com/91359308/174544153-49d5713b-d476-4379-bda3-376f9a963998.png)
