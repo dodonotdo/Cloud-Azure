@@ -41,8 +41,11 @@ How to create kubernetes sevice using container registry in azure`
 ### how to create kubernetes pods
 
 `1. go to the terminal`
+
 `2. type in az login`
+
 `3. type in az aks get-credentials --resource-group event-notification(resource group name) --name event-aks(this is kubernetes cluser)`
+
 `4. check the pods details using this command, kubectl get pods`
 
 
