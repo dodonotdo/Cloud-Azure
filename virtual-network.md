@@ -1,3 +1,16 @@
+# What is virtual networks?
+```
+- A network in which you can deploy cloud resources.
+- Many Cloud resources are deployed within Vnets. Example for VMs, App services, DBs, etc.
+- "Virtual" as in "based on physical network and logically separated from other virtual networks"
+- Vnets are free
+- Limit of 50 Vnets per subscription accross all regions.
+- Each Vnets has its own address range or IP range
+- by default 65,536 address
+- All network devices must be in this address range.
+```
+![image](https://user-images.githubusercontent.com/91359308/174727824-3e893528-8e26-4df6-ab0d-e232248c51b8.png)
+
 ### Creation of virtual networks:-
 ***
 **`1. Basic`**
