@@ -17,11 +17,11 @@ Azure supports the following types of peering:
 2. In VNet-1, go to peering option 
 3. click Add => Fill the infromation about peering 
  
-**step - 1**
+**Step - 1**
 
 ![image](https://user-images.githubusercontent.com/91359308/174969883-2355c821-866e-4455-9d40-3487cbd601a7.png)
 
-**step - 2**
+**Step - 2**
 
 ![image](https://user-images.githubusercontent.com/91359308/174970258-11c0b74d-8fdc-48a6-b8c7-25eeb1d92260.png)
 
@@ -30,10 +30,12 @@ Azure supports the following types of peering:
 **Output:**
 ------------
 
-VNet-1
+**VNet-1 Connection**
+
 ![image](https://user-images.githubusercontent.com/91359308/174968884-b106f2d8-36f9-4876-9faa-85bcba15c157.png)
 
-VNet-2
+**VNet-2 Connection**
+
 ![image](https://user-images.githubusercontent.com/91359308/174969264-3af99845-841d-4985-bbe7-f48565f2344b.png)
 
 ### How to check terminal
