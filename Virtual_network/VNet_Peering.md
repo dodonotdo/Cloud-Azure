@@ -17,11 +17,11 @@ Azure supports the following types of peering:
 2. In VNet-1, go to peering option 
 3. click Add => Fill the infromation about peering 
  
-step - 1
+**step - 1**
 
 ![image](https://user-images.githubusercontent.com/91359308/174969883-2355c821-866e-4455-9d40-3487cbd601a7.png)
 
-step - 2
+**step - 2**
 
 ![image](https://user-images.githubusercontent.com/91359308/174970258-11c0b74d-8fdc-48a6-b8c7-25eeb1d92260.png)
 
