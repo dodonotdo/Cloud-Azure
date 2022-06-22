@@ -11,7 +11,7 @@ Azure supports the following types of peering:
    
    **2. Global virtual network peering:** `Connecting virtual networks across Azure regions.`
   
-## Below the steps are followed by vnet peerings:
+# Below steps are followed by vnet peerings:
 **Example**
 1. Create the two virtual network. The name of the virtual network is **VNet-1** and **VNet-2**
 2. In VNet-1, go to peering option 
