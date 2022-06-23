@@ -1,4 +1,4 @@
-# How to know the topology in Network Watcher
+# How to know the `Topology in Network Watcher`
 
 ```
 - Search for **network watcher** in top of the search box
@@ -9,7 +9,7 @@
 **Output:**
 ![image](https://user-images.githubusercontent.com/91359308/175275948-f1d80263-d5b3-436c-9e49-22511a27ecac.png)
 
-# How to know the connection troubleshoot
+# How to know the `connection troubleshoot in Network Watcher`                
 
 ```
 - Search for **network watcher** in top of the search box
