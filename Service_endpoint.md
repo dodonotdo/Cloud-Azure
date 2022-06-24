@@ -24,4 +24,4 @@
 
 **Note:**
 
-For more details visit this page - https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-service-endpoints
+For more details visit this page - https://docs.microsoft.com/en-us/azure/virtual-network/tutorial-restrict-network-access-to-resources
