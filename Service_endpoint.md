@@ -11,6 +11,9 @@
 - Enable Service endpoint on the subnet from which you want to access the resources.
 - on the resources, set the subnet as the source of traffic.
 ```
+
+![image](https://user-images.githubusercontent.com/91359308/175462055-ae7484ce-fdb9-4fa0-8deb-1de1f76a1f60.png)
+
 **Flowchart of service endpoint:**
 
 ![image](https://user-images.githubusercontent.com/91359308/175461699-474e2229-3250-47d1-94fd-79e811e06696.png)
