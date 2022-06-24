@@ -3,6 +3,8 @@
   partner services. 
 - It simplifies the **network architecture and secures the connection between endpoints **in Azure by eliminating data exposure to the public internet.
 
+![image](https://user-images.githubusercontent.com/91359308/175475825-5b4f199a-4243-4e05-b6c0-329c7610d9ce.png)
+
 **Flowchart of private link:**
 ![image](https://user-images.githubusercontent.com/91359308/175475702-91286155-f90e-4a08-82cd-3777f0f98bbf.png)
 
