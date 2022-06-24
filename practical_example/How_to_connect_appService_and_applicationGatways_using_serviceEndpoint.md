@@ -71,7 +71,11 @@ Add the rule for VM
 ![image](https://user-images.githubusercontent.com/91359308/175536448-eaf81d6f-4348-4843-9b9e-f526882dc267.png)
 
 5. After creating the access restriction, go to the app service URL, Click that URL - status is forbidden
-Because, 
+
+![image](https://user-images.githubusercontent.com/91359308/175537462-a91847ff-9cb2-4dea-9c88-4a6ce5efb755.png)
+
+
+**Because,**
 ```
 All data in the App Service has been transferred to the Appliance gateway.
 ```
