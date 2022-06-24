@@ -19,3 +19,9 @@
 ![image](https://user-images.githubusercontent.com/91359308/175461699-474e2229-3250-47d1-94fd-79e811e06696.png)
 
 ![image](https://user-images.githubusercontent.com/91359308/175461830-ab9b86c7-0579-4438-98ff-156b33e94b5b.png)
+
+
+
+**Note:**
+
+For more details visit this page - https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-service-endpoints
