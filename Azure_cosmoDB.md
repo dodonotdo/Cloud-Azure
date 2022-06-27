@@ -41,7 +41,7 @@
 ![image](https://user-images.githubusercontent.com/91359308/175940631-01fe4137-f75d-4848-a7b2-0f879686d69a.png)
 
 ---
-### 3. Create the Container , table in cosmoDB in CosmoDB
+### 3. Create the Container and table in cosmoDB
 
 ![image](https://user-images.githubusercontent.com/91359308/175941556-11176011-79d5-4f9d-889d-a433a7fc6897.png)
 
