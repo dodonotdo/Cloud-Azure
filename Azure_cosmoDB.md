@@ -36,3 +36,9 @@
 #### click on `Review + Create`
 
 
+### Set the virtual network and firewall:
+
+![image](https://user-images.githubusercontent.com/91359308/175940631-01fe4137-f75d-4848-a7b2-0f879686d69a.png)
+
+
+
