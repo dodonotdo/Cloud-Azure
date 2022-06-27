@@ -8,3 +8,13 @@
 - If /video is in the URL, that traffic is routed to another pool that's optimized for videos.
 
 ![image](https://user-images.githubusercontent.com/91359308/175523146-c33d84d2-01ee-463a-95d6-4b99169051de.png)
+
+
+## Application gateway and Functions:
+
+```
+- Functions apps are basically App Services
+- They can be protected by Application gateway the same way app services are
+- Configure in backend pool
+- Configure Access Restricitons
+```
