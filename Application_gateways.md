@@ -20,3 +20,6 @@
 - Configure in backend pool
 - Configure Access Restricitons
 ```
+**Process Flow for Application Gateway Example**
+
+![image](https://user-images.githubusercontent.com/91359308/175859386-45e78d13-720c-49d6-ba73-429d8abe41e9.png)
