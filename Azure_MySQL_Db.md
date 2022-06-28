@@ -8,6 +8,8 @@
 **Create a Azure MySQL Database:**
 ![image](https://user-images.githubusercontent.com/91359308/176128973-effde07d-76b7-41ae-9cec-4b85e9313cc4.png)
 
+---
+
 ### Login into the mysql server through azure CLI
 
 In Azure mysql database, 
