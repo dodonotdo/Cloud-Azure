@@ -10,7 +10,7 @@
 
 ---
 
-### Login into the mysql server through azure CLI
+### Login into the mysql server through `Azure CLI`
 
 In Azure mysql database, 
 ```
@@ -30,7 +30,7 @@ mysql -h mysql-demo-sever.mysql.database.azure.com -u ubuntu@mysql-demo-sever -p
 ```
 ---
 
-### Login to the mysql server thorugh clinet server
+### Login to the mysql server thorugh `Client Server`
 
 In Azure mysql database, 
 ```
