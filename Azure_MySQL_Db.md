@@ -1,4 +1,4 @@
-### What is Azure MySQL Database:
+### What is Azure MySQL Database?
 ```
 - MySQL Database on Azure is the MySQL cloud database service that we launched on Azure. 
 - It is a type of relational database service that is fully compatible with MySQL protocols, and it gives users a 
