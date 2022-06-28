@@ -6,9 +6,13 @@
   and high levels of security.
 ```
 **Create a Azure MySQL Database:**
+
 ![image](https://user-images.githubusercontent.com/91359308/176128973-effde07d-76b7-41ae-9cec-4b85e9313cc4.png)
 
 **View the created Azure MySQL Database:**
+
+![image](https://user-images.githubusercontent.com/91359308/176131481-19bed3d7-2b1e-4e83-b522-90210f8ad533.png)
+
 ---
 
 ### Login into the mysql server through `Azure CLI`
