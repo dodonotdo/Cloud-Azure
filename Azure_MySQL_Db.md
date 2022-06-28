@@ -4,7 +4,11 @@
 - It is a type of relational database service that is fully compatible with MySQL protocols, and it gives users a 
   fully managed database service that features stable performance, rapid deployment, high availability, 
   and high levels of security.
+  
 ```
+**Create a Azure MySQL Database:**
+![image](https://user-images.githubusercontent.com/91359308/176128973-effde07d-76b7-41ae-9cec-4b85e9313cc4.png)
+
 ### Login into the mysql server through azure CLI
 
 In Azure mysql database, 
