@@ -27,7 +27,8 @@
 
 ![image](https://user-images.githubusercontent.com/91359308/176219268-29b26375-337b-49e3-b392-123bec5866b9.png)
 
-Go to the browser type the URL - https://demostrr.blob.core.windows.net/images/view1.jpg?sp=r&st=2022-06-28T15:30:09Z&se=2022-06-28T23:30:09Z&spr=https&sv=2021-06-08&sr=c&sig=SYXr%2FGBpwNwKnp9UFYNDZgCRqKwniueI0OT9%2FY3f8FM%3D
+output:
+![image](https://user-images.githubusercontent.com/91359308/176223220-20fd87b7-e940-4cf7-95b8-d6b71eebfadc.png)
 
 ### Inside the container, If need to change the change access level `container`
 
