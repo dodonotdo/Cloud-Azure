@@ -20,7 +20,8 @@ In Azure mysql database,
 - should have enable ssl connection.
 - download the ssl certificate and uploade the azure CLI terminal.
 ```
-After set up the above note, we can execute the following command
+**After set up the above note, we can execute the following command**
+
 ```
 mysql -h (hostname) -u (username@servername) -p --ssl-ca=(ssl-certificate-key-name)
 
@@ -38,7 +39,7 @@ In Azure mysql database,
 - go to the connection security, disable allow access to azure service.
 - should include the client ip in firewall.
 ```
-Login to the local mysql server
+**Login to the local mysql server**
 ```
 # Login to the local mysql server
 mysql -u root -p
@@ -49,7 +50,7 @@ CREATE USER 'ubuntu'@'mysql-demo-sever' IDENTIFIED BY 'Password@123';
 # Grant all the privilages
 GRANT ALL PRIVILEGES ON *.* TO 'ubuntu'@'mysql-demo-sever' WITH GRANT OPTION;
 ```
-After set up the above command, we can execute the following command
+**After set up the above command, we can execute the following command**
 ```
 mysql -h mysql-demo-sever.mysql.database.azure.com -u  ubuntu@mysql-demo-sever -p
 ```
